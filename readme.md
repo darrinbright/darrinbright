@@ -1,6 +1,6 @@
 ### Hello!
 
-I am Darrin Bright, a 12th standard student at Chettinad Vidyashram. I am highly passionate on building my coding skillset and my interests include Machine Learning and Deep Learning.  
+I am Darrin Bright, a 12th standard student from Chettinad Vidyashram. I am highly passionate on building my coding skillset and my interests include Machine Learning and Deep Learning.  
 
 - I’m currently learning Deep Learning Architectures.
 
