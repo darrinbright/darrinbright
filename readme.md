@@ -2,7 +2,7 @@
 
 I am Darrin Bright, a 12th standard student from Chettinad Vidyashram. I am highly passionate on building my coding skillset and my interests include Machine Learning and Deep Learning.  
 
-- I’m currently learning Machine Learning Architectures.
+- I’m currently learning Deep Learning Architectures.
 
 ![My github stats](https://github-readme-stats.vercel.app/api?username=darrinbright&show_icons=true&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=darrinbright&layout=compact&theme=tokyonight)](https://github.com/darrinbright/github-readme-stats)
