@@ -1,6 +1,6 @@
 ### Hello!
 
-
+I am Darrin Bright, a first year student pursuing Software Engineering at Vellore Institute of Technology, Vellore. I am very much interested in coding.
 - I’m currently learning Machine Learning Architectures.
 
 ![My github stats](https://github-readme-stats.vercel.app/api?username=darrinbright&show_icons=true&theme=tokyonight)
