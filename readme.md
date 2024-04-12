@@ -1,8 +1,7 @@
 ### Hello!
 
 I am Darrin Bright, a second-year student pursuing Software Engineering at Vellore Institute of Technology. I am very much interested in coding.
-- I’m currently learning Machine Learning Architecture.
-
+- Currently, I'm engaged in projects to expand my knowledge and skill set in the ever-evolving field of AI.
 ![My github stats](https://github-readme-stats.vercel.app/api?username=darrinbright&show_icons=true&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=darrinbright&layout=compact&theme=tokyonight)](https://github.com/darrinbright/github-readme-stats)
 
