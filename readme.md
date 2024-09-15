@@ -1,6 +1,6 @@
 ### Hello!
 
-I am Darrin Bright, a third-year student pursuing Software Engineering at Vellore Institute of Technology with a keen interest in ML and GenAI.
+I am Darrin Bright, a third-year student pursuing Software Engineering at Vellore Institute of Technology with expertise in ML, DL and GenAI.
 - Currently, I'm working on Generative AI projects.
   
 ![My github stats](https://github-readme-stats.vercel.app/api?username=darrinbright&show_icons=true&theme=tokyonight)
