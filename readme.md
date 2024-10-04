@@ -2,10 +2,10 @@
 
 I am Darrin Bright, a third-year student pursuing Software Engineering at Vellore Institute of Technology with expertise in ML, DL and GenAI.
 - Currently, I'm working on Generative AI projects.
-  
-![darrinbright's Stats](https://github-readme-stats.vercel.app/api?username=darrinbright&theme=react&show_icons=true&hide_border=true&count_private=true)
+<p>  
+![darrinbright's Stats](https://github-readme-stats.vercel.app/api?username=darrinbright&theme=react&show_icons=true&hide_border=true&count_private=true)<br>
 ![darrinbright's Streak](https://github-readme-streak-stats.herokuapp.com/?user=darrinbright&theme=react&hide_border=true)
-![darrinbright's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=darrinbright&theme=react&show_icons=true&hide_border=true&layout=compact)
+</p>
 
 <hr>
 <p align="center">
