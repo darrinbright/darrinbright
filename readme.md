@@ -1,7 +1,7 @@
 ### Hello!
 
 I am Darrin Bright, a third-year student pursuing Software Engineering at Vellore Institute of Technology with expertise in ML, DL and GenAI.
-- Currently, I'm working on Generative AI projects.
+- Currently working on self-supervised learning for 3D medical imaging, combining swin transformers with vector quantization to learn representations from unlabeled scans for downstream tasks. 
 
 ![darrinbright's Stats](https://github-readme-stats.vercel.app/api?username=darrinbright&theme=react&show_icons=true&hide_border=true&count_private=true)
 
