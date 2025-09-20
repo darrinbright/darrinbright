@@ -1,6 +1,6 @@
 ### Hello!
 
-I am Darrin Bright, a third-year student pursuing Software Engineering at Vellore Institute of Technology with expertise in ML, DL and GenAI.
+I am Darrin Bright, a fourth-year student pursuing Software Engineering at Vellore Institute of Technology with expertise in Deep Learning.
 
 Currently working on self-supervised learning for 3D medical imaging, combining Swin Transformers with vector quantization to learn representations from unlabeled scans for downstream tasks. 
 
